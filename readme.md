@@ -65,8 +65,7 @@ Additionally, an inline policy was attached to allow reading the specific applic
 
 > Note: if the parameter is encrypted with a **customer-managed KMS key** (not the AWS-managed default), the role also needs `kms:Decrypt` on that key.
 
-**Screenshot:** 
-(./Screenshot%202026-09-14%20172714.png)
+**Screenshot:** ![IAM Role Setup](./Screenshot%202026-09-14%20172714.png)
 
 ### 2. Launch EC2 with SSM Agent
 
